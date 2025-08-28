@@ -1,0 +1,14 @@
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\bin\Debug\net9.0\NoSqlJsonDbApp.exe
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\bin\Debug\net9.0\NoSqlJsonDbApp.deps.json
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\bin\Debug\net9.0\NoSqlJsonDbApp.runtimeconfig.json
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\bin\Debug\net9.0\NoSqlJsonDbApp.dll
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\bin\Debug\net9.0\NoSqlJsonDbApp.pdb
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\NoSqlJsonDbApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\NoSqlJsonDbApp.AssemblyInfoInputs.cache
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\NoSqlJsonDbApp.AssemblyInfo.cs
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\NoSqlJsonDbApp.csproj.CoreCompileInputs.cache
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\NoSqlJsonDbApp.dll
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\refint\NoSqlJsonDbApp.dll
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\NoSqlJsonDbApp.pdb
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\NoSqlJsonDbApp.genruntimeconfig.cache
+D:\NoSqlJsonDbApp_Full\src\NoSqlJsonDbApp\obj\Debug\net9.0\ref\NoSqlJsonDbApp.dll
