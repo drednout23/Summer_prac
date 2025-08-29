@@ -46,11 +46,9 @@ NoSqlJsonDbApp\_Full/
    git clone https://github.com/drednout23/Summer_prac.git
    cd Summer_prac/src/NoSqlJsonDbApp
 
-
 2. Run the console application:
 ````
    dotnet run
-
 ````
 ## 🧪 Run Unit Tests
 
